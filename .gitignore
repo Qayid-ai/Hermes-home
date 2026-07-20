@@ -1,0 +1,61 @@
+# Secrets and auth — never version
+.env*
+auth.json
+auth/
+auth.lock
+google_client_secret.json
+google_token.json
+*.token
+*_secret*
+
+# Databases, state, caches — heavy/derived
+state.db*
+kanban.db*
+*.db-shm
+*.db-wal
+cache/
+image_cache/
+audio_cache/
+models_dev_cache.json
+ollama_cloud_models_cache.json
+provider_models_cache.json
+context_length_cache.yaml
+.skills_prompt_snapshot.json
+state-snapshots/
+sessions/
+logs/
+exports/
+previews/
+sandboxes/
+pairing/
+lsp/
+
+# Upstream source (own git clone, reinstallable)
+hermes-agent/
+
+# Runtime locks/pids/transients
+*.lock
+*.pid
+gateway_state.json
+interrupt_debug.log
+.update_check
+.update_exit_code
+.restart_last_processed.json
+.hermes_history
+webhook_subscriptions.json
+
+# Old snapshot backups (superseded by this repo)
+*.tar.gz
+*.bak
+*.bak.*
+*.bak-*
+config.yaml.pre-patch
+.env.pre-patch
+skills.bak.pre-update-2008/
+deep-prompts.bak.pre-update-2008/
+
+# Python bytecode
+__pycache__/
+*.pyc
+plugins/
+checkpoints/
