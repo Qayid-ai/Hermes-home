@@ -1,0 +1,10 @@
+{
+  "approvals": [
+    {
+      "approved_at": "2026-05-18T04:36:34.525834Z",
+      "command": "~/.hermes/agent-hooks/qmd-embed-on-write.sh",
+      "event": "post_tool_call",
+      "script_mtime_at_approval": "2026-05-18T01:04:28.826242Z"
+    }
+  ]
+}
