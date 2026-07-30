@@ -1,0 +1,127 @@
+{
+  "updated_at": "2026-07-30T07:26:51.980175",
+  "platforms": {
+    "telegram": [
+      {
+        "id": "5735507529",
+        "name": "Abu Musa Malek",
+        "type": "dm",
+        "thread_id": null
+      },
+      {
+        "id": "-1003935519991:1",
+        "name": "Astur LAB / topic 1",
+        "type": "group",
+        "thread_id": "1"
+      },
+      {
+        "id": "-1003935519991:888",
+        "name": "Astur LAB / topic 888",
+        "type": "group",
+        "thread_id": "888"
+      },
+      {
+        "id": "-1003935519991:5",
+        "name": "Astur LAB / topic 5",
+        "type": "group",
+        "thread_id": "5"
+      },
+      {
+        "id": "-1003935519991:4",
+        "name": "Astur LAB / topic 4",
+        "type": "group",
+        "thread_id": "4"
+      },
+      {
+        "id": "-1003935519991:564",
+        "name": "Astur LAB / topic 564",
+        "type": "group",
+        "thread_id": "564"
+      },
+      {
+        "id": "-5483766586",
+        "name": "Memory continues",
+        "type": "group",
+        "thread_id": null
+      },
+      {
+        "id": "-5425348945",
+        "name": "memory comp",
+        "type": "group",
+        "thread_id": null
+      },
+      {
+        "id": "-5282267162",
+        "name": "PDF",
+        "type": "group",
+        "thread_id": null
+      },
+      {
+        "id": "-5154370666",
+        "name": "Experiment1",
+        "type": "group",
+        "thread_id": null
+      },
+      {
+        "id": "-5467817283",
+        "name": "Quick asks",
+        "type": "group",
+        "thread_id": null
+      },
+      {
+        "id": "-5303696776",
+        "name": "Abu Musa Malek & Qayid",
+        "type": "group",
+        "thread_id": null
+      },
+      {
+        "id": "-5125295053",
+        "name": "Memory",
+        "type": "group",
+        "thread_id": null
+      },
+      {
+        "id": "-5504670772",
+        "name": "Switchup",
+        "type": "group",
+        "thread_id": null
+      },
+      {
+        "id": "-5273869520",
+        "name": "Skool Com management",
+        "type": "group",
+        "thread_id": null
+      },
+      {
+        "id": "-5116329777",
+        "name": "Course2",
+        "type": "group",
+        "thread_id": null
+      },
+      {
+        "id": "-5139218351",
+        "name": "App product",
+        "type": "group",
+        "thread_id": null
+      },
+      {
+        "id": "-5162570058",
+        "name": "HED website",
+        "type": "group",
+        "thread_id": null
+      },
+      {
+        "id": "-1003978681503:5",
+        "name": "ASTUR L.O.C.C / topic 5",
+        "type": "group",
+        "thread_id": "5"
+      },
+      {
+        "id": "-1003978681503:1",
+        "name": "ASTUR L.O.C.C / topic 1",
+        "type": "group",
+        "thread_id": "1"
+      }
+    ]
+  }
+}
